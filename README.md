@@ -21,7 +21,6 @@
   <li><strong>Responsive UI</strong>: Fully responsive design according to screen sizes</li>
 </ul>
 
-
 <h2>Screenshots</h2>
 <img src="/src/assets/food_screens/home.png" alt="Home Page" />
 <p><em>Home Page</em></p>
@@ -43,8 +42,6 @@
 <p><em> sucessfuly Order Page</em></p>
 <img src="/src/assets/food_screens/mobile.png" alt="Recipe Page" />
 <p><em> Mobile view </em></p>
-
-
 
 ## Getting Started
 
@@ -93,7 +90,3 @@ Ensure you have the following installed on your machine:
   <li><strong>Favorites</strong>: Save recipes you love by clicking the heart icon.</li>
   <li><strong>Shopping List</strong>: Add ingredients to your shopping list directly from the recipe page.</li>
 </ol>
-
-
-
-
