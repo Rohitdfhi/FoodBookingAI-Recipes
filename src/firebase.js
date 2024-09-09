@@ -16,3 +16,4 @@ const app = initializeApp(firebaseConfig);
 
 // Getting the authentication service from the initialized Firebase app
 export const auth = getAuth(app); // Exporting the authentication service for use in other parts of your app
+
